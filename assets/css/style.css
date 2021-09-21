@@ -199,7 +199,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100vh;
   background: url("../img/backgound.jpg") top center;
-  background-size: 90%;
+  background-size: 100%;
 }
 #hero:before {
   content: "";
